@@ -1,25 +1,24 @@
-# Device Tree for ASUS ZenFone Max Pro (M1) ZB601/2KL
-
-The ASUS ZenFone Max Pro (M1) (codenamed _"X00T"_) is mid-range smartphone from ASUS. It was announced in April 2018, with 3/4 GB RAM variants released in May 2018 and 6 GB RAM variant released in July 2018.
+# Device Tree for Asus Zenfone Max Pro M2
+The Asus Zenfone Max Pro M2 (codenamed _"X01BD"_) is a mid-range smartphone from Asus announced in December 2018.
 
 ## Device specifications
 
-| Device                  | ASUS ZenFone Max Pro (M1)                                                  |
-| ----------------------- | :------------------------------------------------------------------------- |
-| SoC                     | Qualcomm SDM636 Snapdragon 636                                             |
-| CPU                     | Quad-core 1.8 GHz Kryo 260 Gold + Quad-core 1.6 GHz Kryo 260 Silver        |
-| GPU                     | 430 MHz Adreno 509                                                         |
-| Memory                  | 3/4/6 GB RAM (LPDDR4X 1333 MHz dual-channel)                               |
-| Shipped Android version | 8.1.0                                                                      |
-| Storage                 | 32 GB (3 GB) / 64 GB (4/6 GB) eMCP                                         |
-| MicroSD                 | Up to 512 GB (dedicated)                                                   |
-| Battery                 | Non-removable Li-Po 5000 mAh                                               |
-| Dimensions              | 159 x 76 x 8.5 mm                                                          |
-| Display                 | 2160 x 1080 (18:9), 5.99 inch, 450 nits brightness, 1,500:1 contrast ratio |
-| Rear camera 1           | 13 MP f/2.2 (3/4 GB) / 16 MP f/2.0 (6 GB), 1.12-micron pixels, LED flash   |
-| Rear camera 2           | 5 MP, 1.12-micron pixels, f/2.4                                            |
-| Front camera            | 8 MP (3/4 GB) / 16 MP (6 GB), 1-micron pixels, f/2.2, Selfie-light         |
+| Device                  | Asus Zenfone Max Pro M2                                     |
+| ----------------------- | :---------------------------------------------------------- |
+| SoC                     | Qualcomm SDM660 Snapdragon 660                              |
+| CPU                     | 4 x 2.2 GHz Kryo 260 & 4 x 1.8 GHz Kryo 260                 |
+| GPU                     | Adreno 512                                                  |
+| Memory                  | 3GB / 4GB / 6GB RAM (LPDDR4X)                               |
+| Shipped Android version | 8.1.0                                                       |
+| Storage                 | 64 / 128GB eMMC 5.1 flash storage                           |
+| MicroSD                 | Up to 512 GB                                                |
+| Battery                 | Non-removable Li-Po 5000 mAh                                |
+| Dimensions              | 157.9 x 75.5 x 8.5 mm                                       |
+| Display                 | 2280 x 1080 (19:9), 6.26 inch                               |
+| Rear camera 1           | 12 MP, f/1.8, 1/2.9", 1.25μm, PDAF                          |
+| Rear camera 2           | 5 MP, f/2.4, 1.12µm, depth sensor                           |
+| Front camera            | 13MP, f/2.0, 1.12µm                                         |
 
 ## Device picture
 
-![ASUS ZenFone Max Pro (M1)](https://i-cdn.phonearena.com/images/articles/320775-image/Asus-ZenFone-Max-Pro-M1.jpg)
+![Asus Zenfone Max Pro M2](https://c.76.my/Malaysia/asus-zenfone-max-pro-m2-latest-model-ready-stock-shipping-directd-1812-13-directd@10.jpg)
